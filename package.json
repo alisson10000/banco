@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/alisson10000/banco/issues"
   },
-  "homepage": "https://github.com/alisson10000/banco#readme"
+  "homepage": "https://github.com/alisson10000/banco#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mariadb": "^3.1.0",
+    "sequelize": "^6.28.0"
+  }
 }
